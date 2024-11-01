@@ -1,0 +1,7 @@
+{
+    "host": "192.168.149.128",
+    "datacenter_name": "ha-datacenter",
+    "resource_pool":"ha-root-pool",
+    "datastore_name":"datastore1",
+    "ova_path":"C:\\Users\\bachi\\Downloads\\TinyVM.ova"
+}
